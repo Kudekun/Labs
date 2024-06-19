@@ -1,0 +1,10 @@
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП17\Гишко ООП17\bin\Debug\Гишко ООП17.exe.config
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП17\Гишко ООП17\bin\Debug\Гишко ООП17.exe
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП17\Гишко ООП17\bin\Debug\Гишко ООП17.pdb
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП17\Гишко ООП17\obj\Debug\Гишко ООП17.csproj.AssemblyReference.cache
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП17\Гишко ООП17\obj\Debug\Гишко_ООП17.Form1.resources
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП17\Гишко ООП17\obj\Debug\Гишко_ООП17.Properties.Resources.resources
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП17\Гишко ООП17\obj\Debug\Гишко ООП17.csproj.GenerateResource.cache
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП17\Гишко ООП17\obj\Debug\Гишко ООП17.csproj.CoreCompileInputs.cache
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП17\Гишко ООП17\obj\Debug\Гишко ООП17.exe
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП17\Гишко ООП17\obj\Debug\Гишко ООП17.pdb
