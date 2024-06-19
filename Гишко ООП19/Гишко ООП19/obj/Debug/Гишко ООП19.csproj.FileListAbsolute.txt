@@ -1,0 +1,10 @@
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП19\Гишко ООП19\bin\Debug\Гишко ООП19.exe.config
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП19\Гишко ООП19\bin\Debug\Гишко ООП19.exe
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП19\Гишко ООП19\bin\Debug\Гишко ООП19.pdb
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП19\Гишко ООП19\obj\Debug\Гишко ООП19.csproj.AssemblyReference.cache
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП19\Гишко ООП19\obj\Debug\Гишко_ООП19.Form1.resources
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП19\Гишко ООП19\obj\Debug\Гишко_ООП19.Properties.Resources.resources
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП19\Гишко ООП19\obj\Debug\Гишко ООП19.csproj.GenerateResource.cache
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП19\Гишко ООП19\obj\Debug\Гишко ООП19.csproj.CoreCompileInputs.cache
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП19\Гишко ООП19\obj\Debug\Гишко ООП19.exe
+D:\VS PROJECTS\ROSTYK OOP PROJECTS\Гишко ООП19\Гишко ООП19\obj\Debug\Гишко ООП19.pdb
